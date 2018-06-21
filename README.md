@@ -1,4 +1,4 @@
-# hw2
+# VBA
 
 This project further taught me how to write a macro script in Excel to automate tasks that would otherwise take a lot of time (repetitive, needle-in-haystack cases, math).
 
